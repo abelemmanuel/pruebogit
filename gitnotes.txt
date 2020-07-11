@@ -41,4 +41,12 @@ para ver los commits que hemos hecho
 git checkout -- nombrearchivo
 para descartar los cambios de un archivos
 
-para descargtara
+git diff nombrearchivo
+
+
+.gitignore
+carpeta que quiero ignorar
+
+git commit -m "para no abrir el editor y cargar el mensaje"
+
+git branch
