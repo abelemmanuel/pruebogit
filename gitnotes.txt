@@ -61,3 +61,6 @@ git add .
 agrego todo
 
 
+ git remote add origin https://github.com/abelemmanuel/pruebogit.git
+ agrego a un remoto todo lo que hice
+ 
