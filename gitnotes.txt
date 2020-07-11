@@ -1,0 +1,25 @@
+Notas sobre curso de git
+https://www.youtube.com/watch?v=HiXLkL42tMU
+
+
+Estados basicos 
+- working directory
+- staging area
+- repository
+
+basico
+git init
+git add pasar del working directory a staging
+git status
+git commit del staging al repository
+git push para subirlo a un repository remoto
+git pull para traer los cambios 
+git clone hace una copia del server central a la pc
+
+
+Inicializar repo de codigo.
+
+#Comienza el proyecto. Administra una carpeta en git desde aca. No hay que tocarlo
+git init
+
+
