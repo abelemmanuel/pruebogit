@@ -50,3 +50,14 @@ carpeta que quiero ignorar
 git commit -m "para no abrir el editor y cargar el mensaje"
 
 git branch
+
+git branch nombrebranch
+
+git checkout login
+entro a la nueva rama
+
+
+git add . 
+agrego todo
+
+
