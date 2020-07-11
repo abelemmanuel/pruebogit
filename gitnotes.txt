@@ -22,4 +22,18 @@ Inicializar repo de codigo.
 #Comienza el proyecto. Administra una carpeta en git desde aca. No hay que tocarlo
 git init
 
+#Para seguimiento de lo que estoy haciendo
+git status
+
+# para ir agregando archivos al staging area
+git add nombrearchivo
+
+git config --global user.email "email"
+git config --global user.name "name"
+
+git commit
+se escribe un mensaje....
+
+git log 
+para ver los commits que hemos hecho
 
