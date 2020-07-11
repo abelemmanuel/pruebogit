@@ -37,3 +37,6 @@ se escribe un mensaje....
 git log 
 para ver los commits que hemos hecho
 
+
+git checkout -- nombrearchivo
+para descartar los cambios de un archivos
